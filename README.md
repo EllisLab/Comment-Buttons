@@ -89,21 +89,18 @@ Note: You must add the following CSS to your stylesheet template in order to for
     	text-decoration: none;
     }
     
-======================
 v 1.2
-======================
+**********************
 
 Removed references for PHP 4.4.0 people.
 
-======================
 v 1.2.1
-======================
+**********************
 
 Updated to work with EE 1.5
 
-======================
 v 1.3
-======================
+**********************
 
 Updated plugin to be 2.0 compatible
 
